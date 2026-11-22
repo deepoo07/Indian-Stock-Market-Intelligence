@@ -16,6 +16,10 @@ The dashboard provides insights into stock price trends, trading activity, daily
 - ICICI Bank
 - ITC
 
+## Dashboard Preview
+
+![Indian Stock Market Intelligence Dashboard](dashboard_screenshot.png)
+
 ## Dashboard Features
 
 - Average closing price
