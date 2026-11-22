@@ -18,7 +18,7 @@ The dashboard provides insights into stock price trends, trading activity, daily
 
 ## Dashboard Preview
 
-![Indian Stock Market Intelligence Dashboard](dashboard_screenshot.png)
+![Indian Stock Market Intelligence Dashboard](dashboard.jpg)
 
 ## Dashboard Features
 
